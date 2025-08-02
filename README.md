@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Person working on laptop" width="400"/>
+  <img src="URL_ТУТ" alt="Spider working on computer" width="400"/>
 </p>
 
 # Hi, I'm Azam Bayzeav 👋
