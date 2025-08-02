@@ -1,11 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Person working on laptop" width="400"/>
+</p>
+
 # Hi, I'm Azam Bayzeav 👋
 
 I'm an enthusiastic beginner **C# backend developer** passionate about building efficient and scalable applications.  
 Alongside C#, I’m exploring other programming languages and constantly improving my skills.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="coding at computer" width="400"/>
-</p>
 
 ---
 
