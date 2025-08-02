@@ -10,7 +10,7 @@
 ⚡ Interested in **databases, APIs, and scalable applications**  
 🎯 Currently learning **ASP.NET Core & RESTful APIs**  
 🎮 Love **coding, gaming, and building side projects**  
-☕ Fueled by **coffee & curiosity** а это что озночает
+☕ Powered by **coffee & late-night coding sessions**
 ---
 
 ### 🛠 Languages & Tools
