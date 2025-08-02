@@ -1,38 +1,54 @@
-# Привет, я Азам Байзеав 👋
+# Hi, I'm Azam Bayzeav 👋
 
-Я начинающий **C# backend разработчик**, но также знаком с рядом других языков и технологий.
+I'm an enthusiastic beginner **C# backend developer** passionate about building efficient and scalable applications.  
+Alongside C#, I’m exploring other programming languages and constantly improving my skills.
 
----
-
-## 💻 Навыки и технологии
-
-- Основной язык: **C#**
-- Дополнительно: Python, C++, Golang
-- Знания в области сетей и коммуникаций
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="coding gif" width="400"/>
+</p>
 
 ---
 
-## 📱 Мои социальные сети
+## 💻 Skills & Technologies
 
-- Telegram: [Programer_1805](https://t.me/Programer_1805)  
-- Instagram: [@_azaml6_](https://instagram.com/_azaml6_)  
-- TikTok: [@azaml6_](https://www.tiktok.com/@azaml6_)  
-- Facebook: [Азам Байзеав](https://www.facebook.com/azam.bayzeav)  
+- 🟦 **C#**  
+- 🐍 Python  
+- 💻 C++  
+- 🐹 Golang  
+- 🌐 Networking & Communications  
 
----
-
-## 🎮 Проект "Змейка"
-
-В моем репозитории есть классическая игра **Змейка** — отличный способ показать навыки программирования и логику!
-
----
-
-Спасибо, что заглянули!  
-Если хотите связаться — пишите в Telegram или соцсетях выше.  
-Буду рад сотрудничеству и новым проектам!
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="tech gif" width="350"/>
+</p>
 
 ---
+
+## 📱 My Social Media
+
+- [Telegram](https://t.me/Programer_1805) 📨  
+- [Instagram](https://instagram.com/_azaml6_) 📸  
+- [TikTok](https://www.tiktok.com/@azaml6_) 🎵  
+- [Facebook](https://www.facebook.com/azam.bayzeav) 👍  
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6ZsYnRgA1o4e6Nvu/giphy.gif" alt="snake game" width="300"/>
 </p>
+
+---
+
+## 🎮 "Snake" Project
+
+In my repository, you’ll find the classic **Snake** game — a great way to showcase programming skills and logic!
+
+---
+
+Thanks for stopping by!  
+Feel free to reach out via Telegram or any of my social media listed above.  
+Looking forward to collaborations and new projects!
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="thank you gif" width="300"/>
+</p>
+
