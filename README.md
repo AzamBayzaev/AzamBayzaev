@@ -3,12 +3,14 @@
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-<h1 align="center">Hi there, I'm Azam 👋</h1>
+<h1 align="center">Hi there, I'm Azam 👋, 16 y.o.</h1>
 
-💻 **16 y.o. beginner C# backend developer**  
+💻 **beginner C# backend developer**  
 🌱 Exploring the world of **backend development & software engineering**  
 ⚡ Interested in **databases, APIs, and scalable applications**  
-
+🎯 Currently learning **ASP.NET Core & RESTful APIs**  
+🎮 Love **coding, gaming, and building side projects**  
+☕ Fueled by **coffee & curiosity** а это что озночает
 ---
 
 ### 🛠 Languages & Tools
