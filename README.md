@@ -23,6 +23,6 @@ You can find me on these platforms:
 
 ## 🎮 Fun Project  
 
-By the way, there is a classic **Snake game** included in my projects here!  
 
+Classic **Snake game** included in my projects!  
 ![Snake Game GIF](https://media.giphy.com/media/3o6MblQFdpw8WHzS1a/giphy.gif)
