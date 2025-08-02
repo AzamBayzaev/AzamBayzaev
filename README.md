@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me  
 
-<!--
-**AzamBayzaev/AzamBayzaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am a junior **C# backend developer** passionate about coding and learning new technologies.  
+I also know these programming languages:  
+- Python  
+- C#  
+- C++  
+- Go (Golang)  
 
-Here are some ideas to get you started:
+## Social Media  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on these platforms:  
+- **Telegram:** @Programer_1805  
+- **Instagram:** [_azaml6_](https://www.instagram.com/_azaml6_)  
+- **Facebook:** [Azam Baizaev](https://www.facebook.com/azam.baizaev)  
+- **TikTok:** [_azaml6_](https://www.tiktok.com/@_azaml6_)  
+
+## Fun Project  
+
+By the way, there is a classic **Snake game** included in my projects here!  
+
+
