@@ -42,5 +42,4 @@
 ---
 
 ### 🐍 Watch my contribution graph get eaten by a snake
-
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<p align="center"><a href="https://github.com/abdullokhonz"><img width="600" src="https://github.com/abdullokhonz/abdullokhonz/blob/main/assets/decorations/github-snake.svg" alt="snake"/></a></p>
