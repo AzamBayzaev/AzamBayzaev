@@ -34,19 +34,44 @@
 
 ---
 
-# 📊 GitHub Overview
+# 📊 GitHub Overview  
 
-## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzamBayzaev&show_icons=true&theme=radical)
-
-## 🌐 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamBayzaev&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=AzamBayzaev&theme=radical&no-frame=true&margin-w=5&margin-h=5)
+<!-- Верхний баннер -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Azam%20Bayzaev&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff" />
+</p>
 
 ---
+
+## 🔥 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzamBayzaev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzamBayzaev&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+</p>
+
+---
+
+## 🌐 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzamBayzaev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AzamBayzaev&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+<!-- Нижний баннер -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
+
 💻 Follow me on GitHub: [AzamBayzaev](https://github.com/AzamBayzaev)
+
 
 
 ---
