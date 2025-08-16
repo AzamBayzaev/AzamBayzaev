@@ -68,12 +68,31 @@
 
 ---
 
-<!-- Нижний баннер -->
+## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=120&section=footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzamBayzaev&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
-💻 Follow me on GitHub: [AzamBayzaev](https://github.com/AzamBayzaev)
+---
+
+## 🎧 Now Playing on Spotify  
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="400"/>
+</p>
+
+---
+
+## ✨ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
+
+---
+
+## 🌍 3D Contributions  
+<p align="center">
+  <img src="https://github.com/AzamBayzaev/AzamBayzaev/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="3D Globe"/>
+</p>
 
 ---
 
@@ -81,3 +100,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AzamBayzaev/AzamBayzaev/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
+---
+
+<!-- Нижний баннер -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=120&section=footer" />
+</p>
+
+💻 Follow me on GitHub: [AzamBayzaev](https://github.com/AzamBayzaev)
