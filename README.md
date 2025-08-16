@@ -34,8 +34,19 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Overview
+
+## 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzamBayzaev&show_icons=true&theme=radical)
+
+## 🌐 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamBayzaev&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=AzamBayzaev&theme=radical&no-frame=true&margin-w=5&margin-h=5)
+
+---
+💻 Follow me on GitHub: [AzamBayzaev](https://github.com/AzamBayzaev)
 
 
 ---
