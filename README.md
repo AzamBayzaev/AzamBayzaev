@@ -79,16 +79,13 @@
   <a href="https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ" target="_blank">
     <img src="https://i.scdn.co/image/ab67616d0000b2737e5f2a20b846db2a70f6d85d" width="300" alt="Billie Eilish - everything i wanted"/>
   </a>
-  <br/>
-  <i>🎶 Billie Eilish – everything i wanted 🎶</i>
 </p>
+
 
 ---
 
 ## ✨ Random Dev Quote
-<p align="center">
 > “Talk is cheap. Show me the code.” – Linus Torvalds
-</p>
 
 ---
 
