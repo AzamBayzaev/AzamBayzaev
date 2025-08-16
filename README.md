@@ -41,7 +41,6 @@
 
 # 📊 GitHub Overview  
 
-<!-- Верхний баннер -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=160&section=header&text=Azam%20Bayzaev&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
@@ -84,25 +83,25 @@
   <i>🎶 Billie Eilish – everything i wanted 🎶</i>
 </p>
 
-
 ---
 
-## ✨ Random Dev Quote  
+## ✨ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+> “Talk is cheap. Show me the code.” – Linus Torvalds
 </p>
 
 ---
 
-
----
-
 ### 🐍 Watch my contribution graph get eaten by a snake
-<p align="center"><a href="https://github.com/abdullokhonz"><img width="600" src="https://github.com/abdullokhonz/abdullokhonz/blob/main/assets/decorations/github-snake.svg" alt="snake"/></a></p>
+<p align="center">
+  <a href="https://github.com/abdullokhonz">
+    <img width="600" src="https://github.com/abdullokhonz/abdullokhonz/blob/main/assets/decorations/github-snake.svg" alt="snake"/>
+  </a>
+</p>
 
 ---
 
-<!-- Нижний баннер -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=120&section=footer" />
 </p>
