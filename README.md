@@ -75,10 +75,15 @@
 
 ---
 
-## 🎧 Now Playing on Spotify  
+## 🎧 Favorite Song
 <p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="400"/>
+  <a href="https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737e5f2a20b846db2a70f6d85d" width="300" alt="Billie Eilish - everything i wanted"/>
+  </a>
+  <br/>
+  <i>🎶 Billie Eilish – everything i wanted 🎶</i>
 </p>
+
 
 ---
 
@@ -89,17 +94,11 @@
 
 ---
 
-## 🌍 3D Contributions  
-<p align="center">
-  <img src="https://github.com/AzamBayzaev/AzamBayzaev/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="600" alt="3D Globe"/>
-</p>
 
 ---
 
-## 🐍 Watch my contribution graph get eaten by a snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AzamBayzaev/AzamBayzaev/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+### 🐍 Watch my contribution graph get eaten by a snake
+<p align="center"><a href="https://github.com/abdullokhonz"><img width="600" src="https://github.com/abdullokhonz/abdullokhonz/blob/main/assets/decorations/github-snake.svg" alt="snake"/></a></p>
 
 ---
 
