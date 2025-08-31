@@ -73,17 +73,6 @@
 </p>
 
 ---
-## 🎧 Favorite Song
-![Billie Eilish – everything i wanted](https://i.scdn.co/image/ab67616d0000b2737e5f2a20b846db2a70f6d85d)
-
-**🎶 Billie Eilish – everything i wanted 🎶**  
-
-Слушать на [Spotify](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ)
-
-
-
-
----
 
 ### 🐍 Watch my contribution graph get eaten by a snake
 <p align="center">
