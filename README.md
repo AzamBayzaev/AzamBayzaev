@@ -53,19 +53,7 @@
 
 ---
 
-## 🌐 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzamBayzaev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff0066" height="160"/>
-</p>
 
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AzamBayzaev&theme=onestar&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" />
-</p>
-
----
 
 ## 📈 Contribution Graph  
 <p align="center">
