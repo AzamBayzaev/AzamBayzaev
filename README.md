@@ -3,7 +3,7 @@
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-<h1 align="center">✨ Hi there, I'm Azam 👋, 16 y.o.</h1>
+<h1 align="center">✨ Hi there, I'm Azam 👋, 17 y.o.</h1>
 <h3 align="center">💻 C# Backend Developer | 🌍 Open Source Enthusiast | 🚀 Future Software Engineer</h3>
 
 ---
