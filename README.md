@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">✨ Hi there, I'm Azam 👋, 17 y.o.</h1>
-<h3 align="center">💻 C# Backend Developer | 🌍 Open Source Enthusiast | 🚀 Future Software Engineer</h3>
+<h3 align="center">💻 Software Developer | 🌍 Open Source Enthusiast | 🚀 Future Software Engineer</h3>
 
 ---
 
 ## ⚡ About Me  
-- 💻 **Beginner C# backend developer**  
+- 💻 **Junior backend developer**  
 - 🌱 Exploring the world of **software engineering & backend development**  
 - 🎯 Currently learning **ASP.NET Core & RESTful APIs**  
 - ☕ Powered by **coffee & late-night coding sessions**  
